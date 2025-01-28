@@ -1,9 +1,9 @@
 Assignment:
-Write automated tests using Playwright and embed both coding and test automation best practices in your automation suite.
-Application under test: https://www.saucedemo.com/
-Scenarios to be automated
-Verify the sorting order displayed for Z-A on the “All Items” page.
-Verify the price order (high-low) displayed on the “All Items” page.
+1.Write automated tests using Playwright and embed both coding and test automation best practices in your automation suite.
+2. Application under test: https://www.saucedemo.com/
+3. Scenarios to be automated
+4. Verify the sorting order displayed for Z-A on the “All Items” page.
+5. Verify the price order (high-low) displayed on the “All Items” page.
 
 Prerequisites:
 Node.js and npm: Ensure you have Node.js and npm installed on your system. You can download them from the official Node.js website (https://nodejs.org/).
